@@ -1,11 +1,12 @@
-.container {
+.container{
   width: 200px;
   background-color: purple;
+  border-width: 5px;
+	
 }
 
 .left-side {
   border-color: green;
-  border-width: 5px;
   padding: 10px;
   font-size: 20px;
 	
