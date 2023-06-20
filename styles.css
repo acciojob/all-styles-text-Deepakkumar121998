@@ -1,20 +1,13 @@
-.container{
+.container{	
   width: 200px;
   background-color: purple;
-  border-width: 5px;
-	
 }
-
 .left-side {
   border-color: green;
   padding: 10px;
+  border-left: 5px solid green;
   font-size: 20px;
-	
-
 }
-
-
-
 .heading {
   color: white;
   text-decoration:underline;
