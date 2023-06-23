@@ -2,12 +2,12 @@
   width:200px;
   background-color: purple;
 }
-/* .container{	
-} */
-.heading {
+.container{	
   padding: 10px;
   border-left: 5px solid green;
   font-size: 20px;
+}
+.heading {
   color: white;
   text-decoration:underline;
 }
