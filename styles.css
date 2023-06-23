@@ -4,8 +4,8 @@
 }
 .left-side {
 /*   border-color: green; */
-  padding: 10px;
-  border-left: 5px solid green;
+  padding:10px;
+  border-left:5px solid rgb(0, 128, 0);
   font-size: 20px;
 }
 .heading {
